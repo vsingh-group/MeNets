@@ -1,4 +1,4 @@
-name: "bresNet-MPIIGaze"
+name: "ResNet18-MPIIGaze"
 layer {
   name: "MPII_train"
   type: "HDF5Data"
